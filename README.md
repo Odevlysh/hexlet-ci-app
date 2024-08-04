@@ -1,5 +1,7 @@
 [![CI Workflow](https://github.com/Odevlysh/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Odevlysh/hexlet-ci-app/actions/workflows/ci.yml)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/Odevlysh/hexlet-ci-app/badge.svg)](https://snyk.io/test/github/Odevlysh/hexlet-ci-app)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
